@@ -1,0 +1,17 @@
+.loader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: rgba(240, 248, 255, 0.62);
+  padding: 1em;
+  border-radius: 1em;
+  box-shadow: 1em 1em 1em #0004;
+}
+.img_loader {
+  border-radius: 50%;
+  width: 50%;
+  max-width: 200px;
+  background-color: transparent;
+  /* box-sizing: border-box; */
+}

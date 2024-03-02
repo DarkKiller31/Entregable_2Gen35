@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Expletus+Sans:ital,wght@0,400..700;1,400..700&family=Protest+Riot&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+html {
+  font-family: "Expletus Sans", sans-serif;
+}
+body {
+  margin: 0;
+}
+h1,h2,h3,p,ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+img {
+  display: block;
+}
+input, button {
+  font-family: inherit;
+}
+button {
+  cursor: pointer;
+}
